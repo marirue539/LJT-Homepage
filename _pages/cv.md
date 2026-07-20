@@ -11,54 +11,53 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024 – Present
+  * Advisor: Prof. Junxian He
+  * Research group: [HKUST NLP Group](https://hkust-nlp.github.io/)
+* B.Eng., Shanghai Jiao Tong University, 2020 – 2024
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Feb 2025 – Present: Research Intern
+  * MINIMAX
+  * Focus: natural language processing and machine learning.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2024 – Sep 2024: Research Intern
+  * Tencent WXG
+  * Focus: vision-language models and chart understanding.
+  * Advisor: Zifei Shan
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Jun 2023 – Dec 2023: Research Intern
+  * Shanghai AI Lab
+  * Focus: NLP and interpretability of large language models.
+  * Advisor: Prof. Yu Cheng
+
+Research Interests
+======
+* LLM Reasoning and Reinforcement Learning
+* Hallucination in Vision-Language Models (VLMs)
+* LLM Truthfulness and Interpretability
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Research Areas:**
+  * Natural Language Processing
+  * Machine Learning
+* **Specific Topics:**
+  * LLM Reasoning
+  * Reinforcement Learning
+  * Hallucination in Vision-Language Models
+  * LLM Truthfulness and Interpretability
+* **Languages:**
+  * English (professional working proficiency)
+  * Chinese (native)
+
+Honors & Awards
+======
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
