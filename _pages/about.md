@@ -18,6 +18,14 @@ My research broadly lies in natural language processing and machine learning, wi
 - **Hallucination in Vision-Language Models (VLMs)** — understanding and mitigating hallucination in multimodal models.
 - **LLM Truthfulness and Interpretability** — probing the inner representations of LLMs to understand and improve their truthfulness.
 
+Selected Publications
+======
+A full list of my publications can be found on the [Publications page](/publications/).
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 News
 ======
 - **Feb 2025:** Started a research internship at MINIMAX.
