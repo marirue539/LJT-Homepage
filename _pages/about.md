@@ -8,30 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the [HKUST NLP Group](https://hkust-nlp.github.io/) at the Hong Kong University of Science and Technology (HKUST), fortunate to be advised by [Prof. Junxian He](https://www.junxianhe.com/). I received my Bachelor of Engineering degree from Shanghai Jiao Tong University (SJTU) in June 2024.
+I am a first-year Ph.D. candidate at the Hong Kong University of Science and Technology (HKUST), advised by Prof. Junxian He in the HKUST NLP Group. I received my Bachelor of Engineering degree from Shanghai Jiao Tong University (SJTU) in June 2024.
 
 Research Interests
 ======
 My research broadly lies in natural language processing and machine learning, with a current focus on:
 
-- **LLM Reasoning and Reinforcement Learning** — improving reasoning capabilities of large language models and exploring RL-based training paradigms.
-- **Hallucination in Vision-Language Models (VLMs)** — understanding and mitigating hallucination in multimodal models.
-- **LLM Truthfulness and Interpretability** — probing the inner representations of LLMs to understand and improve their truthfulness.
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLM)
+- LLM truthfulness and Interpretability
 
 Publications
 ======
-(* indicates equal contribution / first author. A full list with abstracts and citation info is available on the [Publications page](/publications/).)
+A full list is available on the [Publications page](/publications/).
 
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**
-  *Junteng Liu\**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He*
+  *Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He*
   arXiv preprint, 2025.
 
 - **On the Perception Bottleneck of VLMs for Chart Understanding**
-  *Junteng Liu\**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He*
+  *Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He*
   arXiv preprint, 2025.
 
 - **On the Universal Truthfulness Hyperplane Inside LLMs**
-  *Junteng Liu\**, Shiqi Chen, Yu Cheng, Junxian He*
+  *Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He*
   EMNLP 2024.
 
 - **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**
@@ -58,19 +58,16 @@ Education
 ======
 - **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (2024 – Present)
   - Advisor: Prof. Junxian He
-  - Research group: [HKUST NLP Group](https://hkust-nlp.github.io/)
+  - Research group: HKUST NLP Group
 - **B.Eng.**, Shanghai Jiao Tong University (2020 – 2024)
 
 Research Experience
 ======
 - **Research Intern, MINIMAX** (Feb 2025 – Present)
-  - Focus: natural language processing and machine learning.
 - **Research Intern, Tencent WXG** (Jun 2024 – Sep 2024)
   - Advisor: Zifei Shan
-  - Focus: vision-language models and chart understanding.
 - **Research Intern, Shanghai AI Lab** (Jun 2023 – Dec 2023)
   - Advisor: Prof. Yu Cheng
-  - Focus: NLP and interpretability of large language models.
 
 Honors & Awards
 ======
